@@ -1,0 +1,14 @@
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\bin\Debug\netcoreapp3.1\MIdtermServer.exe
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\bin\Debug\netcoreapp3.1\MIdtermServer.deps.json
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\bin\Debug\netcoreapp3.1\MIdtermServer.runtimeconfig.json
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\bin\Debug\netcoreapp3.1\MIdtermServer.runtimeconfig.dev.json
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\bin\Debug\netcoreapp3.1\MIdtermServer.dll
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\bin\Debug\netcoreapp3.1\MIdtermServer.pdb
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.csproj.AssemblyReference.cache
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.AssemblyInfoInputs.cache
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.AssemblyInfo.cs
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.dll
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.pdb
+C:\Users\Dante\source\repos\MIdtermServer\MIdtermServer\obj\Debug\netcoreapp3.1\MIdtermServer.genruntimeconfig.cache
